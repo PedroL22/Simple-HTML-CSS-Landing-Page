@@ -64,10 +64,8 @@
     content: counter(grid-counter);
     position: absolute;
     font-size: 8rem;
-    font-style: italic;
     top: -4rem;
     left: -2rem;
-    transform: rotate(5deg);
 }
 
 .gallery-img {
@@ -193,7 +191,7 @@ footer {
     }
 
     h2 {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .grid-one-content {
